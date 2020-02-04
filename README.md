@@ -12,7 +12,8 @@ this is my list.  There are many like it but this one is mine.
 * [Ghidra quickstart & tutorial: Solving a simple crackme](https://www.youtube.com/watch?v=fTGTnrgjuGA) {00:11:29}
 
 ## Network Forensics
-
+## Assembly
+* https://www.youtube.com/watch?v=wLXIWKUWpSs Intro to x86 Assembly Language (Part 1)
 
 ## Watch People Code Python
 * [Downloading Files Using Python Web Scraping | Web Scraping for Beginners](https://www.youtube.com/watch?v=0v1kp2JTZMA) {00:09:00}

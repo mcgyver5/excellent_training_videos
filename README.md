@@ -4,6 +4,11 @@ this is my list.  There are many like it but this one is mine.
 * Visuals are clear.  
 * Narrator is intelligible.
 * Material is up to date and correct.
+* not a bunch of fancy transitions or other effects without a good reason
+* typos are edited out or kept to a minimum
+* warnings or alerts that show up as part of the exercises are explained.
+* Don't spend time on unrelated tasks.  For example, don't go over how to install Java when the video is about using a Java tool.
+* Don't read off of slides 
 
 ## Reverse Engineering
 * [Ghidra and IDA - Solving a reverse engineering CTF crackme](https://www.youtube.com/watch?v=S06pgk4DjFQ)  {00:15:30}

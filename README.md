@@ -10,6 +10,10 @@ this is my list.  There are many like it but this one is mine.
 * Don't spend time on unrelated tasks.  For example, don't go over how to install Java when the video is about using a Java tool.
 * Don't read off of slides 
 
+### Format:
+* Each entry has a title closed in square brackets followed by a URL in parentheses.
+* Expect time, ratings, name of creator and other metadata to be automated sometime soon. Until then, the title and link are required while time, creator and ratings are optional.  
+
 ## Reverse Engineering
 * [Ghidra and IDA - Solving a reverse engineering CTF crackme](https://www.youtube.com/watch?v=S06pgk4DjFQ)  {00:15:30}
 * [Ghidra Tutorial 2: Solving a very simple crackme](https://www.youtube.com/watch?v=yQTMvtutsjY) {00:06:08}

@@ -20,9 +20,13 @@ this is my list.  There are many like it but this one is mine.
 * [Reversing and Cracking first simple Program - bin 0x05](https://www.youtube.com/watch?v=VroEiMOJPm8) {00:09:00}
 * [Ghidra quickstart & tutorial: Solving a simple crackme](https://www.youtube.com/watch?v=fTGTnrgjuGA) {00:11:29}
 
+## Appsec
+* [HTTP Desync Attacks - DefCon presentation (https://www.youtube.com/watch?v=w-eJM2Pc0KI)
+* [Free Tools! How to Use Developer Tools and Javascript in Webapp Pentests] (https://www.youtube.com/watch?v=3W65ji1gc8c)
+
 ## Network Forensics
 ## Assembly
-* https://www.youtube.com/watch?v=wLXIWKUWpSs Intro to x86 Assembly Language (Part 1)
+* [Intro to x86 Assembly Language Part 1] (https://www.youtube.com/watch?v=wLXIWKUWpSs) 
 
 ## Watch People Code Python
 * [Downloading Files Using Python Web Scraping | Web Scraping for Beginners](https://www.youtube.com/watch?v=0v1kp2JTZMA) {00:09:00}
